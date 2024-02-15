@@ -1,0 +1,40 @@
+ void DisplayMessage(int index) 
+    {
+        switch(index)
+        {
+            case 0:
+                MessageText.text = "Zeus!";
+                break;
+            case 1:
+                MessageText.text = "Poseidon!";
+                break;
+            case 2:
+                MessageText.text = "Demeter!";
+                break;
+            case 3:
+                MessageText.text = "Ares!";
+                break;
+            case 4:
+                MessageText.text = "Aphrodite!";
+                break;
+            case 5:
+                MessageText.text = "Athena!";
+                break;
+            case 6:
+                MessageText.text = "Hephaestus!";
+                break;
+            case 7:
+                MessageText.text = "Hermes!";
+                break;
+            case 8:
+                MessageText.text = "Dionysus!";
+                break;
+            default:
+                MessageText.text = "Unknown, to Hermes Cabin you go!";
+                break;
+        }
+    }
+
+
+
+    
