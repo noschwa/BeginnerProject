@@ -1,5 +1,5 @@
 # This is my first project in Unity
 
-# Main Contributors
+## Main Contributors
 Noah Schwartz
 
