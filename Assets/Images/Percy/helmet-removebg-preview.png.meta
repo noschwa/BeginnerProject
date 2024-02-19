@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet-removebg-preview_0: 7417842988507789120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

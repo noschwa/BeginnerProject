@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wreath-removebg-preview_0: -5657922731275655812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

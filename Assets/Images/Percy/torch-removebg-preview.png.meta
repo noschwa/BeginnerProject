@@ -252,7 +252,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      torch-removebg-preview_0: -3375430254136010209
+      torch-removebg-preview_1: 924528456726044416
+      torch-removebg-preview_2: -6319911213055216593
+      torch-removebg-preview_3: 859028837982652217
+      torch-removebg-preview_4: -2076758349930135747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

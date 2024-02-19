@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dionysus-trans_0: -6955093864667750970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

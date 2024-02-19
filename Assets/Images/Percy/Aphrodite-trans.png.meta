@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Aphrodite-trans_0: 4816300877237068717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

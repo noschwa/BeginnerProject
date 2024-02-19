@@ -468,7 +468,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lotus-removebg-preview_0: 4868742166949603620
+      lotus-removebg-preview_1: 4206865878364812544
+      lotus-removebg-preview_10: -5276948866579680006
+      lotus-removebg-preview_11: -7854758238563486155
+      lotus-removebg-preview_12: 2883425467318542945
+      lotus-removebg-preview_13: -8608742160637048584
+      lotus-removebg-preview_2: -6321165609453678075
+      lotus-removebg-preview_3: 5261238973989867991
+      lotus-removebg-preview_4: 6267451188314141434
+      lotus-removebg-preview_5: -6247682685665082318
+      lotus-removebg-preview_6: 4442540385417697302
+      lotus-removebg-preview_7: 1877553426881666359
+      lotus-removebg-preview_8: -2223398245576684280
+      lotus-removebg-preview_9: -4150885412624480595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

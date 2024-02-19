@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demeter-trans_0: 270797938988452693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

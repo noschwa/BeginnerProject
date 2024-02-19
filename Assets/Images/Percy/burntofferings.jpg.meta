@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      burntofferings_0: 7289155815643025243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

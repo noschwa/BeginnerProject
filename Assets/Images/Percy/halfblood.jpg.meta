@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      halfblood_0: -8698879941622346018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

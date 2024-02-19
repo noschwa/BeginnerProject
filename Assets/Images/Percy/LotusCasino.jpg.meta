@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LotusCasino_0: 4617365637703026984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

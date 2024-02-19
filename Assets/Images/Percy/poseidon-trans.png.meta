@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      poseidon-trans_0: -8092326994932051078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

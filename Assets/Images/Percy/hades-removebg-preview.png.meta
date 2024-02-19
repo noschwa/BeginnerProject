@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hades-removebg-preview_0: 8870107958830244743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

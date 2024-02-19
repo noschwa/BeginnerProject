@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ares-trans_0: -7119697141023873980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hermes-trans_0: -7876556947676514649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

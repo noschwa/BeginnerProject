@@ -16,13 +16,14 @@ public class Main : MonoBehaviour
     void Start()
     {
         ToggleButton.GetComponent<Button>().interactable = false;
+
     }
 
     public void ToggleText()
     {
-        if(GameText.text == "What'd ya get?!")
+        if (GameText.text == "What'd ya get?!")
         {
-            GameText.text = "Congrats, you're in debt!";
+            GameText.text = "Sorry, try again! :)";
         }
         else
         {
@@ -40,7 +41,7 @@ public class Main : MonoBehaviour
 
     void Update()
     {
-        
+
     }
 
     public void DisableLever()
@@ -52,6 +53,5 @@ public class Main : MonoBehaviour
     {
         ButtonSlotLever.GetComponent<Button>().interactable = true;
     }
-    
 
 }

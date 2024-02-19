@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Apollo-trans_0: -3132180233462506614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

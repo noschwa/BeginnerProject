@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zeus-trans_0: 7753550751244903315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

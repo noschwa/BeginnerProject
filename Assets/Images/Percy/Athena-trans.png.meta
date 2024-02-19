@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Athena-trans_0: -1558799963280556842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
